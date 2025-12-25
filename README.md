@@ -301,4 +301,3 @@ This project demonstrates:
 - defensive handling of malformed or malicious input
 
 It is intentionally designed to be extensible into a REST API or persistent service with minimal changes.
-# computer-price-prediction
