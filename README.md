@@ -1,4 +1,4 @@
-# CSCI6431Final-BulletinBoard
+# Bulletin Board TCP Project
 
 ## Overview
 
